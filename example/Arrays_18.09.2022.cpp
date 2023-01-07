@@ -10,7 +10,7 @@
 }*/
 int main() {
 	setlocale(LC_ALL, "Russian");
-	/*int size = 10;
+	int size = 10;
 	int* a = new int[size] {22, 3, 44, 555, 6, 7, 666, 7, 77, 6};
 	int b[10] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 		std::cout << "enter the array" << "\n";
@@ -28,9 +28,9 @@ int main() {
 		delete[]a;
 		std::cout << "\n";
 
-		std::cout << b;*/
-	int a;
-	std::cout << a;
+		std::cout << b;
+	/*int a;
+	std::cout << a;*/
 		
 		
 		
